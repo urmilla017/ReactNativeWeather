@@ -1,0 +1,6 @@
+module Pods_ReactNativeWeather {
+  umbrella header "Pods-ReactNativeWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
